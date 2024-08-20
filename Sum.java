@@ -13,6 +13,8 @@ public class Sum {
             System.out.println("B is greater than A");
         }
 
+        System.out.println("Added new line");
+
     }
 
 }
