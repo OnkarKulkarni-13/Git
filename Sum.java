@@ -1,4 +1,8 @@
 public class Sum {
+
+    int age;
+    String name;
+
     public static void main(String[] args) {
 
         int a1 = 10, b = 20;
