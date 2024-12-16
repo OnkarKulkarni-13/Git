@@ -5,8 +5,8 @@ public class Main {
         String str2 = "Kulkarni";
 
         System.out.println("Onakr Kulkarni..!!!");
-        System.out.println("Here I'm Raising a Pull Request..!!");
-        System.out.println("Do you Understand..!!!");
+    
+        System.out.println("tring to commit Master -> Main");
 
     }
 
